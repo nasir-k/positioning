@@ -1,0 +1,38 @@
+#box{
+    padding: 20px;
+    margin: 20px;
+    width: 100%;
+    height: auto;
+    background-color: aqua;
+    border: 2px black solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.A{
+    padding: 5px;
+    margin: 5px;
+    width: 200px;
+    height: 200px;
+    background: darkblue;
+    border: 2px black solid;
+    color: white;
+}
+.B{
+    padding: 5px;
+    margin: 5px;
+    width: 150px;
+    height: 150px;
+    background: grey;
+    border: 2px black solid;
+    color: white;
+}
+.C{
+    padding: 5px;
+    margin: 5px;
+    width: 100px;
+    height: 100px;
+    background: red;
+    border: 2px black solid;
+    color: white;
+}
